@@ -8,3 +8,5 @@ De modo geral, os clusters levaram em conta o tamanho e o peso das frutas (o DBS
 
 Para rodar em seu ambiente, baixe os arquivos, crie um ambiente virtual usando conda (https://conda.org/) e instale as versões de bibliotecas citadas no requirements.txt, em seguida, rode o notebook neste ambiente virtual criado por você
 
+O JoseLuizBarretoDemarco_ValidacaodeModelosdeClusterizacao2.ipynb é o arquivo com alterações solicitadas pelo professor no JoseLuizBarretoDemarco_ValidacaodeModelosdeClusterizacao.ipynb
+Os mesmos foram colocados em separados vistos que prefir manter eles em separados para poder verificar com maior facilidade as alterações no PD
